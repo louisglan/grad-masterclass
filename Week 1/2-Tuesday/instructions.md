@@ -10,6 +10,6 @@ Afternoon (1pm-5pm):
 1. Continue the project
 2. In the last 15-30 mins of the day watch the video "HTML Project Runthrough"
 
-If you finish all this in good time review [what to do if you get ahead](../Intro/tips.md)
+If you finish all this in good time you may make a start on tomorrow's activities. Alternatively, review [what to do if you get ahead](../Intro/tips.md)
 
 [Back](../week-1-links.md)
