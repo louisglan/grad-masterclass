@@ -38,6 +38,8 @@ Select File > Autosave (if there is not already a tick by autosave)
 
 ## **Notion**
 
+Notion is blocked by EY on Windows laptops - if using Windows you are encouraged to use Markdown to take notes instead (see the [Markdown page](./markdown.md) for a cheatsheet)
+
 Go to https://www.notion.so/ and create a new account
 
 Tips:

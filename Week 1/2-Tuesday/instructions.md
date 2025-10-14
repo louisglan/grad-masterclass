@@ -9,6 +9,7 @@ Morning (9am-12pm):
 Afternoon (1pm-5pm):
 1. Continue the project
 2. In the last 15-30 mins of the day watch the video "HTML Project Runthrough"
+3. Stretch goal: if you finish everthing in time, try and implement tables and/or inputs in your blog. If you want to try to make this fit in with your blog you could have a comment section at the bottom for your input.
 
 If you finish all this in good time you may make a start on tomorrow's activities. Alternatively, review [what to do if you get ahead](../Intro/tips.md)
 
