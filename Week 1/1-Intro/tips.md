@@ -36,7 +36,7 @@ There is plenty of learning you can do if you finish the day’s activities earl
 
 There will be three recurring activities throughout this training period - watching videos, practice exercises and projects
 
-- For the first half of the course (Frontend Masters Complete Intro to Web Development), there will be comprehensive notes available at https://btholt.github.io/complete-intro-to-web-dev-v3/.
+- For the first half of the course (Frontend Masters Complete Intro to Web Development), there will be comprehensive notes available at https://btholt.github.io/complete-intro-to-web-dev-v3/. Try and code along with him in the interactive sections of these notes as you watch the videos
 - Feel free to take notes during the videos or whenever you feel appropriate, but try and avoid pausing the video regularly to take notes as the notes will all be available and you will have plenty of opportunity to practice - it is during the practice that you will learn the concepts properly so don’t sacrifice practice time for taking notes. That said taking notes is important for having a reference so make sure you take notes in areas that feel like it is needed
 - There should be sufficient time to watch the videos on 1x speed and still have time to get the exercises done
 - Feel free to copy the notes I have here on Notion

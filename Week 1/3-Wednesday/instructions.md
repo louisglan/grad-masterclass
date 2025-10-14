@@ -9,8 +9,9 @@ Morning (11am-12pm):
 
 Afternoon (1pm-5pm):
 1. Continue watching the videos up to and including "CSS Project"
-2. Make a start on the project
-3. In the last 30-45 mins of the day watch the CSS solution and Q&A videos
+2. Create a GitHub repository called "CSS coffee app"
+3. Clone the repo and make a start on the project in the repo, committing regularly
+4. In the last 30-45 mins of the day watch the CSS solution and Q&A videos
 
 If you finish all this in good time review [what to do if you get ahead](../Intro/tips.md)
 
