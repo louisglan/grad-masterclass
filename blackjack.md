@@ -4,14 +4,14 @@ When you get ahead you will be building a blackjack command line game. Here is a
 
 ## Instructions
 
-Your task is to create blackjack in the terminal. This coursework should force you to think about how to break a big problem down into smaller chunks. Here are your tasks:
+Your task is to create blackjack in the terminal using only JavaScript. This coursework should force you to think about how to break a big problem down into smaller chunks. Here are your tasks:
 - Install deno: open powershell and run `irm https://deno.land/install.ps1 | iex`. Deno is a modern (but less used) version of node that will allow us to easily get prompts in the command line. To run a js app with deno, in your terminal run `deno <app-name>.js`
 - Create a new repository called "blackjack" and clone it. You can start coding now!
 - Generate the deck (a list of 52 cards, represented by a digit and a letter e.g., 5C = 5 of clubs)
 - Shuffle the deck (use Math.random to achieve this. It is not straightforward)
 - Deal the user a hand
 - Tell them how many points their hand is worth
-- Ask if they want to hit or stick (use the deno `globalThis.prompt()` method to get an input from the user)
+- Ask if they want to hit or stick (use the deno `globalThis.prompt()` method to get an input from the user). Remember you will need to use `deno <app-name>.js` to run the app with deno. 
 - Tell the user their new hand
 - If they are bust tell them they bust and lost. Otherwise ask them if they want to hit or stick
 - Generate the dealer's hand. The dealer must follow a strict set of rules (see "The Dealer's Play" in the rule)
