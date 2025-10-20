@@ -17,6 +17,6 @@ Afternoon (1pm-5pm):
     - Give the button a different format when you hover your mouse over it and another format when you click on it
     - Go into developer tools (right click > inspect in Chrome) and see how your phone looks on an iphone screen (select the laptop icon in the top left of dev tools). Does this look how you want it to? Try and use the docs to see how to fix this
 
-If you finish all this in good time review [what to do if you get ahead](../Intro/tips.md)
+If you finish all this in good time review [what to do if you get ahead](../1-Intro/tips.md)
 
 [Back](../week-1-links.md)

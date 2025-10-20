@@ -18,6 +18,6 @@ Afternoon (1pm-5pm):
 6. Complete [Codecademy functions exercises](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions)
 7. Next Monday's content contains more complex concepts that should enable you to complete more difficult challenges so make a start on that if you like
 
-If you finish all this in good time review [what to do if you get ahead](../Intro/tips.md). Since it's a Friday feel free to finish up at 4pm if you finish all the work
+If you finish all this in good time review [what to do if you get ahead](../1-Intro/tips.md). Since it's a Friday feel free to finish up at 4pm if you finish all the work
 
 [Back](../week-1-links.md)

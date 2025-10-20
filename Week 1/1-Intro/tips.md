@@ -25,6 +25,8 @@ What do you do when you get stuck?
 
 There is plenty of learning you can do if you finish the day’s activities early:
 
+- Finish any unfinished projects from previous days
+- Start or continue work on the [blackjack project](../../blackjack.md)
 - CodeWars contains many coding exercises you can use to practice coding. If you want more of a challenge look at LeetCode or harder Katas
 - Revise any concepts you feel less confident on
 - Work on a personal coding project if you have one
