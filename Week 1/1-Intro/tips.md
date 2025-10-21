@@ -2,7 +2,7 @@
 
 ## You Will Get Stuck
 
-What do you do when you get stuck?
+What do you do when you get stuck? As important as it is to follow the process below, the most important thing to remember is don't be afraid to ask for help... from anyone. Noone is expecting you to be an expert in the things you have just learnt. Teaching is a great way to learn so ask your peers for help they will get something out of it too! Now on to the process:
 
 1. Nearly all code is deterministic - if you run it again with the same inputs you will get the same outputs. Simply rerunning your code without changing anything and hoping it works will almost exclusively fail you
 2. Try and debug e.g., using `console.log` or a debugger
