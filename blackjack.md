@@ -11,7 +11,8 @@ Your task is to create blackjack in the terminal using only JavaScript. This cou
 - Shuffle the deck (use Math.random to achieve this. It is not straightforward)
 - Deal the user a hand
 - Tell them how many points their hand is worth
-- Ask if they want to hit or stick (use the deno `globalThis.prompt()` method to get an input from the user). Remember you will need to use `deno <app-name>.js` to run the app with deno. 
+- Deal one card to the dealer and show it
+- Ask if the user wants to hit or stick (use the deno `globalThis.prompt()` method to get an input from the user). Remember you will need to use `deno <app-name>.js` to run the app with deno. 
 - Tell the user their new hand
 - If they are bust tell them they bust and lost. Otherwise ask them if they want to hit or stick
 - Generate the dealer's hand. The dealer must follow a strict set of rules (see "The Dealer's Play" in the rule)
@@ -24,6 +25,7 @@ Your task is to create blackjack in the terminal using only JavaScript. This cou
 A playthrough of the game might look like this:
 Your hand is 5C, 9C
 (14 points)
+Dealer shows: QH
 What do you want to do? ("hit" or "stick") hit
 Dealer's hand is 3H, 3S
 (6 points)
