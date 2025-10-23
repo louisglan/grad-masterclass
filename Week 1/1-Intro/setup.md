@@ -97,6 +97,10 @@ Add yourself to the EYEngineers clan under account settings
 
 Quick demo
 
+## Deno
+- Windows: open powershell and run `irm https://deno.land/install.ps1 | iex`. 
+- Mac: open terminal and run `npm install -g deno` 
+
 ## **Linux/Mac**
 
 ### ZSH
