@@ -8,6 +8,6 @@ Morning (9am-12pm):
 
 Afternoon (1pm-5pm):
 1. Complete the [Codecademy requests section](https://www.codecademy.com/courses/learn-intermediate-javascript/articles/http-requests)
-2. Watch the networking project video and make a start
+2. Watch the Word Game project video and make a start
 
 [Back](week-2-links.md)
