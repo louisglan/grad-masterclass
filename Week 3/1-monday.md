@@ -13,4 +13,4 @@ Afternoon (1pm-5pm):
 
 If you finish all this in good time review [what to do if you get ahead](../Week%201/1-Intro/tips.md).
 
-[Back](week-2-links.md)
+[Back](week-3-links.md)
