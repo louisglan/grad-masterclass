@@ -1,6 +1,7 @@
 # Monday Instructions
 
 Today you will continue on your Word Game project and learn about debugging:
+
 Morning (9am-12pm):
 1. Watch these videos on debugging:
     - https://frontendmasters.com/courses/javascript-first-steps/debugging/

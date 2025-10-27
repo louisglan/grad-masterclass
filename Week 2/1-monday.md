@@ -1,6 +1,7 @@
 # Monday Instructions
 
 Today you will be finish learning basic JavaScript concepts. Your activities will be:
+
 Morning (9am-12pm):
 1. Watch the two Scope videos 
 2. Complete the [Codecademy scope section](https://www.codecademy.com/courses/introduction-to-javascript/lessons/scope/exercises/scope)

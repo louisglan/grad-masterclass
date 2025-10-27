@@ -3,6 +3,7 @@
 Today you will be covering CSS. You *may* have noticed that HTML is a little bland on its own. CSS is used to style HTML i.e., make it pretty. CSS can be very powerful in the right hands - [this pokemon page](https://poke-holo.simey.me/) was styled entirely with CSS
 
 Your activities will be:
+
 Morning (11am-12pm):
 1. Visit https://frontendmasters.com/courses/web-development-v3/ to find the course. Notes can be found at https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/html/tags
 2. Watch the videos from "CSS Overview & Rules" up to and including "Pseudo-classes"

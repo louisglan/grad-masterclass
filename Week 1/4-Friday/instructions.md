@@ -1,6 +1,7 @@
 # Friday Instructions
 
 Today you will be making a start on JavaScript. Your activities will be:
+
 Morning (9am-12pm):
 1. Visit https://frontendmasters.com/courses/web-development-v3/ to find the course. Notes can be found at https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/html/tags
 2. Watch Intro up to & including numbers, string and booleans

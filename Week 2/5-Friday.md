@@ -1,6 +1,7 @@
 # Friday Instructions
 
 Today you will be working on more complex JavaScript concepts - fetching data and promises. Your activities will be:
+
 Morning (9am-12pm):
 1. Watch the Talking to Servers section from "JSON" up to "Async Await"
 2. Complete the [Codecademy promises section](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/promises/exercises/introduction)
