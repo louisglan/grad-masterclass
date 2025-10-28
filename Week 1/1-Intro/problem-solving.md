@@ -2,8 +2,9 @@
 
 Almost all problems can be tackled by taking a step-by-step approach to the problem:
 1. Understand the problem, including edge cases
-2. Break the problem down into logical chunks
-3. 
+2. Break the problem down into smaller problems
+3. Define an algorithm or flow chart
+4. Start building
 
 ## Understand the Problem
 Look at the problem and try to truly understand it, not from an implementation perspective but from a result perspective. Think about and identify:
@@ -22,10 +23,10 @@ Identify whether a problem can be broken into smaller problems that can each be 
 For each of your sub problems (especially JavaScript problems), you can now create a flow chart. This should be as granular as possible and can describe an algorithm or a user Journey or both. Excalidraw is a great tool for creating flowcharts and wireframes (sketches of your website). 
 
 ## Start building
-You are now ready to start writing your code. If you are working on a website, create a barebones frame with HTML and minimal CSS and try and get the JavaScript working. Then, once the website works as desired you can clean up and make more complex CSS. Work on one feature at a time. For example, for a sign up page:
-- Start by implementing code that allows the user to input a username and password
-- Write some code that gets that username and password from the form and stores it in a JavaScript variable
-- Write some code that stores that username and password in the database
-- Write some code that notifies the user that their sign up was successful
+You are now ready to start writing your code. If you are working on a website, create a barebones frame with HTML and minimal CSS and try and get the JavaScript working. Then, once the website works as desired you can clean up and make more complex CSS. Work on one feature at a time. 
+
+Example for login page:
+![excalidraw diagram](image.png)
+
 
 [Back](links.md)
