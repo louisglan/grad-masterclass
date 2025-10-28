@@ -7,6 +7,7 @@
 5. [Git/GitHub](git.md)
 6. [How the Internet Works](how-the-internet-works.md)
 7. [APIs](apis.md)
-8. [Markdown Cheatsheet](markdown.md)
+8. [Problem solving](problem-solving.md)
+9. [Markdown Cheatsheet](markdown.md)
 
 [Back](../week-1-links.md)
