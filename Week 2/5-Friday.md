@@ -9,6 +9,7 @@ Morning (9am-12pm):
 
 Afternoon (1pm-5pm):
 1. Complete the [Codecademy requests section](https://www.codecademy.com/courses/learn-intermediate-javascript/articles/http-requests)
-2. Watch the Word Game project video and make a start
+2. Watch [this video](https://www.youtube.com/watch?v=tkfVQK6UxDI) to learn more about HTTP requests. When you use `fetch`, by default you are making a GET request but you can use the second parameter to make other kinds of kinds of requests (POST, PUT, ...)
+3. Watch the Word Game project video and make a start
 
 [Back](week-2-links.md)
