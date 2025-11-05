@@ -8,8 +8,6 @@ Morning (9am-12pm):
 3. Complete the pgexercises [Joins and Subqueries exercises](https://pgexercises.com/questions/joins/) 1 & 2
 4. Continue watching up to Using the DISTINCT Statement
 5. Complete next three [Joins and Subqueries exercises](https://pgexercises.com/questions/joins/)
-6. Watch the Recipes Exercise video and attempt the exercise
-7. Watch the Recipes Solution video
 
 Afternoon (1pm-5pm):
 1. Watch the JSONB and aggregation sections
@@ -19,6 +17,11 @@ Afternoon (1pm-5pm):
 5. Watch The Movie Database Setup and The Movie Database Exercise and attempt the exercise
 6. Watch The Movie Database solutions
 7. Continue watching the videos if you have time
+
+Stretch tasks:
+1. If you didn't complete yesterday's stretch tasks, have a go at those
+2. Watch the Recipes Exercise video and attempt the exercise
+3. Watch the Recipes Solution video
 
 If you finish all this in good time review [what to do if you get ahead](../Week%201/1-Intro/tips.md).
 

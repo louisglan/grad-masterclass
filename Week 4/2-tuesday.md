@@ -16,8 +16,10 @@ Afternoon (1pm-5pm):
 4. Complete first three [Modifying Data exercises](https://pgexercises.com/questions/updates/) in pgexercises (the third is particularly challenging)
 5. Watch updating and deleting data 
 6. Finish the modifying data exercises
-7. Watch node-postgres & SQL Injection and Ingredients API Exercise and attempt the exercise.
-8. Watch the solution
+
+Stretch tasks:
+1. Watch node-postgres & SQL Injection and Ingredients API Exercise and attempt the exercise
+2. Watch the solution
 
 If you finish all this in good time review [what to do if you get ahead](../Week%201/1-Intro/tips.md).
 
