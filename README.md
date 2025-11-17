@@ -7,5 +7,5 @@ Find the relevant notes/instructions below:
 3. [Week 3](Week%203/week-3-links.md)
 4. [Week 4](./Week%204/week-4-links.md)
 5. [Week 5](./Week%205/week-5.md)
-6. [Week 6](./Week%206/week-6.md)
+6. [Week 6](./Week%206/week-6-links.md)
 7. [Coursework](./blackjack.md)
