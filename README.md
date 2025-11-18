@@ -9,3 +9,4 @@ Find the relevant notes/instructions below:
 5. [Week 5](./Week%205/week-5.md)
 6. [Week 6](./Week%206/week-6-links.md)
 7. [Coursework](./blackjack.md)
+8. [Demo guidance](./demo-guidance.md)
