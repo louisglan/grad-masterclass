@@ -3,7 +3,7 @@
 Today you will be learning about JSX:
 
 1. Watch the JSX in React lessons, coding along with Brian
-2. Create a basic react project for exercises
+2. Create a basic react project for exercises. Follow [these instructions](https://medium.com/@implicitknowledge/minimal-vite-react-project-af56ecfabf9a) to create a barebones react app
 3. Exercise: In your exercise project:
     - Create three components:
     - One component should be named Hello and it should return 'Hello' wrapped inside of h1.
