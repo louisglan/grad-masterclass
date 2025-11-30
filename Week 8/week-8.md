@@ -3,9 +3,11 @@
 This week is the second hackathon week and your final week of training! You will be working solely on making/rewriting a react project all week.
 
 Decide what you want to work on this week. You can choose between:
-    - Translate a completed project into React
-    - Building a project you didn't finish in React (e.g., if you didn't finish the calculator project, build it from scratch using React)
-    - Building any project of your own choice using React that you think you can build within a week. Talk to me first before choosing this option so I can gauge if it is realistic in this time frame
+- Translate a completed project into React
+- Building a project you didn't finish in React (e.g., if you didn't finish the calculator project, build it from scratch using React)
+- Building any project of your own choice using React that you think you can build within a week. Talk to me first before choosing this option so I can gauge if it is realistic in this time frame. Here are a couple of ideas that should match your ability levels:
+    - To do list
+    - Norts and crosses
 
 In addition to creating a working product, you can aim to do the following:
 - Make the website as accessible as possible
